@@ -1,0 +1,8 @@
+#containerSlider{
+	height: 450px;
+	width: 3400px;
+}
+
+#containerSlider img{
+	float: left;	
+}
